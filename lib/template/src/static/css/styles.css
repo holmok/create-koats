@@ -1,0 +1,54 @@
+main>.container {
+  padding: 60px 20px 0 20px;
+  max-width: 960px;
+}
+
+header>.container {
+  max-width: 960px;
+}
+
+header {
+  background-color: #000;
+  color: #fff;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+header div.menu {
+  font-weight: 100;
+}
+
+header strong {
+  color: #f90;
+}
+
+header a {
+  text-decoration: none;
+  color: #ccc;
+  font-weight: 100;
+}
+
+header a:hover {
+  color: #ff0;
+}
+
+footer {
+  font-weight: 100;
+  background-color: #000;
+  color: #ccc;
+}
+
+footer>.container {
+  text-align: center;
+}
+
+pre {
+  padding: 10px 0;
+  background-color: #000;
+  color: #3c0;
+}
+
+span.light {
+  font-weight: 100;
+}
