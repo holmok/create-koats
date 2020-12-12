@@ -1,10 +1,10 @@
-# KOATS - a generator to create a Koa Typescript Web Server Template
+# KOATS-STARTER - a generator to create a Koa Typescript Web Server Template
 
 ## To create a new project
 
 1. Create a directory for your projects `$ mkdir my-project`
 2. Change directory into your project: `$ cd my-project`
-3. Run: `$ npm init koats`
+3. Run: `$ npm init koats-starter`
 4. Start the dev server locally with: `$ npm run dev`
 5. Use this to start a great web site using Koa and Typescript
 

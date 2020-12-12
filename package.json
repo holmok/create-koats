@@ -1,10 +1,10 @@
 {
-  "name": "create-koats",
+  "name": "create-koats-starter",
   "version": "1.0.0",
-  "description": "Creates a TypeScript koa.js project.",
+  "description": "Creates a TypeScript koa.js starter project.",
   "main": "lib/index.js",
   "bin": {
-    "create-koats": "./lib/index.js"
+    "create-koats-starter": "./lib/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
